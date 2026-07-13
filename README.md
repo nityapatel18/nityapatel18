@@ -1,4 +1,4 @@
-<div align="center">
+[<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c5cff,100:1f2937&height=200&section=header&text=Nitya%20Thummar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Robotics%20%26%20Automation%20Engineer&descAlignY=58&descSize=18" width="100%"/>
 
@@ -89,3 +89,4 @@ Drop a message on [LinkedIn](https://www.linkedin.com/in/nitya-thummar-14b3362bb
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,100:7c5cff&height=100&section=footer" width="100%"/>
 
 </div>
+](https://www.instagram.com/nitya_patel_17?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
