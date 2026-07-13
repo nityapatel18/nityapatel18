@@ -24,7 +24,7 @@ class Nitya:
     def __init__(self):
         self.role        = "Robotics & Automation Engineering Student"
         self.college      = "Government Engineering College, Gandhinagar"
-        self.year         = "3rd Year (2023 - Present)"
+        self.year         = "4th Year (2023 - Present)"
         self.interests    = ["Embedded Systems", "IoT", "Mechatronics", "Control Systems"]
         self.languages    = ["Python", "C++", "MATLAB"]
         self.currently    = "Looking for an internship to build real, production-grade systems"
