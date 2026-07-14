@@ -4,12 +4,6 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/Open%20to-Internships-7c5cff?style=for-the-badge&labelColor=1f2937"/>
-<img src="https://img.shields.io/badge/Focus-Robotics%20%26%20Automation-a996ff?style=for-the-badge&labelColor=1f2937"/>
-<img src="https://img.shields.io/badge/Ahmedabad%2C%20India-📍-333333?style=for-the-badge&labelColor=1f2937"/>
-
-<br/><br/>
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitya-thummar-14b3362bb)
 [![Gmail](https://img.shields.io/badge/Email-nityathummar%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nityathummar@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-nitya__patel__17-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nitya_patel_17)
@@ -70,11 +64,10 @@ Built a functional prototype of a solar-powered boat for sustainable water trans
 
 <br/>
 
-### 📊 GitHub Stats
+### 📊 Academic Snapshot
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=nityapatel18&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1f2937&title_color=a996ff&icon_color=7c5cff" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nityapatel18&theme=tokyonight&hide_border=true&background=1f2937&ring=7c5cff&fire=a996ff" height="165"/>
+<img src="./stats.svg" width="100%"/>
 </div>
 
 <br/>
@@ -83,9 +76,8 @@ Built a functional prototype of a solar-powered boat for sustainable water trans
 
 ### 💬 Let's Connect
 
-Open to internships and collaborative robotics/automation projects.
-Drop a message on [LinkedIn](https://www.linkedin.com/in/nitya-thummar-14b3362bb), [Instagram](https://www.instagram.com/nitya_patel_17), or [Email](mailto:nityathummar@gmail.com) — always happy to talk tech!
-
 <img src="./footer.svg" width="100%"/>
 
 </div>
+
+
