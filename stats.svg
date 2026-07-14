@@ -1,0 +1,23 @@
+<svg width="900" height="110" viewBox="0 0 900 110" xmlns="http://www.w3.org/2000/svg">
+  <g font-family="Arial, Helvetica, sans-serif">
+    <!-- card 1 -->
+    <rect x="24" y="0" width="204" height="100" rx="12" fill="#171a23" stroke="#2a2f3d"/>
+    <text x="126" y="46" font-size="24" font-weight="700" fill="#a996ff" text-anchor="middle">6.65</text>
+    <text x="126" y="70" font-size="10.5" fill="#8b93a7" text-anchor="middle" letter-spacing="0.5">CURRENT CGPA</text>
+
+    <!-- card 2 -->
+    <rect x="240" y="0" width="204" height="100" rx="12" fill="#171a23" stroke="#2a2f3d"/>
+    <text x="342" y="46" font-size="24" font-weight="700" fill="#a996ff" text-anchor="middle">73.75%ile</text>
+    <text x="342" y="70" font-size="10.5" fill="#8b93a7" text-anchor="middle" letter-spacing="0.5">HSC SCIENCE</text>
+
+    <!-- card 3 -->
+    <rect x="456" y="0" width="204" height="100" rx="12" fill="#171a23" stroke="#2a2f3d"/>
+    <text x="558" y="46" font-size="24" font-weight="700" fill="#a996ff" text-anchor="middle">93.5%ile</text>
+    <text x="558" y="70" font-size="10.5" fill="#8b93a7" text-anchor="middle" letter-spacing="0.5">SSC</text>
+
+    <!-- card 4 -->
+    <rect x="672" y="0" width="204" height="100" rx="12" fill="#171a23" stroke="#2a2f3d"/>
+    <text x="774" y="46" font-size="24" font-weight="700" fill="#a996ff" text-anchor="middle">3+</text>
+    <text x="774" y="70" font-size="10.5" fill="#8b93a7" text-anchor="middle" letter-spacing="0.5">LANGUAGES SPOKEN</text>
+  </g>
+</svg>
