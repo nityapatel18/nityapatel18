@@ -78,6 +78,13 @@ Built a functional prototype of a solar-powered boat for sustainable water trans
 
 <img src="./footer.svg" width="100%"/>
 
+<br/><br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitya-thummar-14b3362bb)
+[![Instagram](https://img.shields.io/badge/Instagram-nitya__patel__17-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nitya_patel_17)
+[![Gmail](https://img.shields.io/badge/Email-nityathummar%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nityathummar@gmail.com)
+[![Phone](https://img.shields.io/badge/Call-%2B91%20832%20014%204987-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+918320144987)
+
 </div>
 
 
