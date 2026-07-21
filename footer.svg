@@ -14,10 +14,10 @@
 
   <g font-family="Arial, Helvetica, sans-serif" font-size="12.5" font-weight="700" fill="#ffffff">
     <rect x="162" y="70" width="330" height="34" rx="17" fill="rgba(255,255,255,0.16)" stroke="rgba(255,255,255,0.4)"/>
-    <text x="327" y="92" text-anchor="middle">💼 LinkedIn: https://www.linkedin.com/in/nitya-thummar-14b3362bb</text>
+    <text x="327" y="92" text-anchor="middle">💼 LinkedIn: nitya-thummar</text>
 
     <rect x="508" y="70" width="232" height="34" rx="17" fill="rgba(255,255,255,0.16)" stroke="rgba(255,255,255,0.4)"/>
-    <text x="624" y="92" text-anchor="middle">📷 Instagram: https://www.instagram.com/nitya_patel_17</text>
+    <text x="624" y="92" text-anchor="middle">📷 Instagram: nitya_patel_17</text>
 
     <rect x="222" y="118" width="252" height="34" rx="17" fill="rgba(255,255,255,0.16)" stroke="rgba(255,255,255,0.4)"/>
     <text x="348" y="140" text-anchor="middle">✉ nityathummar@gmail.com</text>
